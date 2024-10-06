@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/b249f697-26dc-4dfa-8204-8a5790ecfbcc.jfif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
