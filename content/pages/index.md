@@ -130,7 +130,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: nome
           label: Nome
           hideLabel: true
           placeholder: First Name
