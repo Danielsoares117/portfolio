@@ -158,7 +158,7 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar\U0001F680"
       styles:
         submitLabel:
           textAlign: center
