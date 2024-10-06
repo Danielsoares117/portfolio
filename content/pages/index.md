@@ -133,7 +133,7 @@ sections:
         - name: Firstname
           label: ''
           hideLabel: true
-          placeholder: First Name
+          placeholder: Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
