@@ -4,7 +4,9 @@ title: Wordpress - Car detail website
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: Projeto de um website de car detailing utilizando o wor
+description: >-
+  Projeto de um website de car detailing de uma marca DDS_Line utilizando o
+  worpress 
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-06_185502513.png
