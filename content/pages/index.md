@@ -123,7 +123,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: ContactSection
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: "Entra em contacto comigo!\U0001F4AC"
     form:
