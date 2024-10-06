@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Wordpress - '
+title: Wordpress - Car detailing website
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
