@@ -41,7 +41,18 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/gmail.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
