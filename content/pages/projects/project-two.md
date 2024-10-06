@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/imagem_2024-10-06_221444412.png
   altText: Project image
 ---
 Neste projeto desenvolvido em sala de aula utilizei o wordpress para desenvolver um website de uma marca chamada DDS\_Line, focada em car detailing. 
