@@ -44,12 +44,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
