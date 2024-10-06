@@ -17,7 +17,7 @@ featuredImage:
   url: /images/imagem_2024-10-06_213915560.png
   altText: Post thumbnail image
 media:
-  url: /images/post-4.png
+  url: /images/imagem_2024-10-06_214039335.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
