@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Great Unbundling
+title: Projeto sci-fi 3D
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
