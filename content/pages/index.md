@@ -138,7 +138,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: Sobrenome
-          label: Sobrenome
+          label: Lastname
           hideLabel: true
           placeholder: Last Name
           isRequired: false
