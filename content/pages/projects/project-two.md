@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Wordpress - Car detail website
 colors: colors-a
-date: '2021-12-20'
+date: ''
 client: Awesome client
 description: >-
   Projeto de um website de car detailing de uma marca DDS_Line utilizando o
