@@ -140,7 +140,7 @@ sections:
         - name: ''
           label: Lastname
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Sobrenome
           isRequired: false
           width: 1/2
           type: TextFormControl
