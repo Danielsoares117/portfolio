@@ -7,7 +7,7 @@ client: Awesome client
 description: Neste projeto utilizei uma localhost para criar uma base de dados "PDO-Search"
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/imagem_2024-10-06_213321051.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
