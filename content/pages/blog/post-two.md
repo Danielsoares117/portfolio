@@ -115,5 +115,6 @@ bottomSections:
       text:
         textAlign: left
 ---
-Este projeto foi realizado no contexto de **MODELAÇÃO3D** na qual utilizei o programa **3DSTUDIOMAX** para desenvolver uma base militar sci-fi peça a peça. Neste projeto dei o meu melhor num total de 15 horas. 
+Este projeto foi realizado no contexto de **MODELAÇÃO3D** na qual utilizei o programa **3DSTUDIOMAX** para desenvolver uma base militar sci-fi peça a peça. Neste projeto dei o meu melhor num total de 15 horas.
 
+[Ver vídeo](https://drive.google.com/file/d/17WMVl0OrSe-rX_8QKaZl9L_yRPZZljPY/view)
