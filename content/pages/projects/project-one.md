@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PDO-Search
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: PDO-Search
 description: Neste projeto utilizei uma localhost para criar uma base de dados "PDO-Search"
 featuredImage:
   type: ImageBlock
