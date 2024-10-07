@@ -16,8 +16,11 @@ media:
   url: /images/imagem_2024-10-06_221444412.png
   altText: Project image
 ---
-Neste projeto desenvolvido em sala de aula utilizei o wordpress para desenvolver um website de uma marca chamada DDS\_Line, focada em car detailing. 
+Neste projeto desenvolvido em sala de aula utilizei o wordpress para desenvolver um website de uma marca chamada DDS\_Line, focada em car detailing.
 
 Neste website falo sobre a empresa e todos os serviços que tem para oferecer aos seus clientes
 
 [Ver vídeo](https://drive.google.com/file/d/1Xb51sOl06n6XSQpEjpneySczhTIEz-Sv/view?t=7)
+
+[**Github**](https://github.com/Danielsoares117/Car-detail)
+
