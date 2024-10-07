@@ -4,10 +4,7 @@ title: WORDPRESS - Loja roupa
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Projeto de uma loja de roupa utilizando wordpress e elementor
 featuredImage:
   type: ImageBlock
   url: /images/imagem_2024-10-07_224250795.png
