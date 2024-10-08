@@ -174,18 +174,24 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022- A decorrer**
 
-          * ba computer sciense at a semi fancy school
+          *   OFICINA-Escola profissional do INA
 
-          **2014**
 
-          * react certificate somewhere
+          **2017-2022**
 
-          **2011**
+          *   Escola EB 2/3 Alvarelhos
 
-          * my highschool
+
+
+
+
+
+
+
+
         styles:
           self:
             textAlign: left
