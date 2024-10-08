@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 3D sci-fi
 date: '2024-10-16'
 client: Awesome client
-description: ''
+description: Projeto de uma base militar sci-fi em 3d utilizando 3DS Max
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
