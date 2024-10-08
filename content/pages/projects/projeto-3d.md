@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: '3D sci-fi '
-  caption: ''
+  caption: Projeto de uma base militar sci-fi em 3d utilizando 3DS Max
   elementId: ''
 media:
   type: ImageBlock
