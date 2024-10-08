@@ -47,7 +47,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Todos os projetos
         url: /projects
     showDate: false
     showDescription: true
@@ -58,6 +58,7 @@ sections:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
+      - content/pages/projects/projeto-3d.md
     styles:
       self:
         height: auto
