@@ -63,7 +63,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/imagem_2024-10-08_191641606.png
         altText: Logo one
         caption: Logo one
     spacing: 3
