@@ -160,22 +160,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Formação:'
         text: |+
-          **2022- A decorrer**
+          **2022- Atual**
 
           *   OFICINA-Escola profissional do INA
-
 
           **2017-2022**
 
           *   Escola EB 2/3 Alvarelhos
-
-
-
-
-
-
-
-
 
         styles:
           self:
