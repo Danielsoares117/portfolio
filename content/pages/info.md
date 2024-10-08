@@ -60,7 +60,9 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: >-
+      Realizei um estágio de 133 horas na empresa SkySigma localizada em
+      ribeirão.
     images:
       - type: ImageBlock
         url: /images/imagem_2024-10-08_191641606.png
