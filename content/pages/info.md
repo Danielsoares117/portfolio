@@ -13,11 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |+
+      ## O meu nome é Daniel Soares e pertenço ao curso de GPSI na OFICINA. 
+
+      Tenho muito gosto pela área de hardware, principalmente em computadores.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
