@@ -143,7 +143,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experi:'
+        subtitle: 'Experiência:'
         text: |+
           **2023**
 
