@@ -158,7 +158,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ':'
         text: |+
           **2022- A decorrer**
 
