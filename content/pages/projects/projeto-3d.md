@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: 3D sci-fi
-date: '2024-10-02'
+date: '2024-10-26'
 client: ''
 description: Projeto de uma base militar sci-fi em 3d utilizando 3DS Max
 featuredImage:
