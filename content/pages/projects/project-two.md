@@ -17,7 +17,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/pexels-emreaslihak-14263908.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
