@@ -24,7 +24,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 35
 ---
 Este projeto de um website de uma loja de computador portátil foi realizada em sala de aula juntamente com um grupo de mais 6 pessoas.
 
