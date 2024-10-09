@@ -26,3 +26,4 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Nesta atividade aprendi tudo sobre os diversos cabos e realizei numa aula a montagem de cabos RJ45 e testei os mesmos.
