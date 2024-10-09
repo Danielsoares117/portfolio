@@ -19,7 +19,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 22
+  opacity: 21
 ---
 Neste projeto que foi realizado em sala de aula utilizei uma base de dados em que permitiu-me criar o PDO-Search, que tem como função adicionar, remover, editar e procurar diversos nomes e as suas informações tudo guardado em uma base de dados.
 
