@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Daniel Soares
-    subtitle: Sou o Daniel Soares e este é o meu portfolio
+    subtitle: ''
     styles:
       self:
         height: auto
