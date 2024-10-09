@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/pexels-kaip-996329.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
