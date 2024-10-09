@@ -24,6 +24,6 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 26
 ---
 Durante as aulas do curso de GPSI que frequento realizei várias tarefas em Hardware, como por exemplo reparações, substituições de peças danificadas, adição de mais componentes. Também realizei das mais diversas reparações no estágio de 133 horas que realizei, sempre ultrapassando todos os obstáculos possíveis.
