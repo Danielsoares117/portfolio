@@ -13,6 +13,13 @@ media:
   type: ImageBlock
   url: /images/imagem_2024-10-07_204623311.png
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Neste projeto que foi realizado em sala de aula utilizei uma base de dados em que permitiu-me criar o PDO-Search, que tem como função adicionar, remover, editar e procurar diversos nomes e as suas informações tudo guardado em uma base de dados.
 
