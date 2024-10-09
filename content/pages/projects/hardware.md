@@ -6,7 +6,7 @@ client: Awesome client
 description: Reparação de hardware
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/imagem_2024-10-09_211722576.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
