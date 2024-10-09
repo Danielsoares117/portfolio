@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Cabos RJ45
 date: '2023-03-15'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Montagem de cabos RJ45
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
