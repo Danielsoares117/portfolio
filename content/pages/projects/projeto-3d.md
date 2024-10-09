@@ -24,7 +24,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 36
+  opacity: 20
 ---
 Neste projeto desenvolvido em sala de aula desenvolvi uma base militar sci-fi em 3D no programa 3DS MAX.
 
