@@ -110,11 +110,11 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experiência:'
         text: |
-          **2023**
+          **2024**
 
           *   Skysigma Lda
 
-          ****
+          ***
 
           **Certificados:**
 
