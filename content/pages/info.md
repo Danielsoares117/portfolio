@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
-      ## O meu nome é Daniel Soares e pertenço ao curso de GPSI na OFICINA. 
+    text: >
+      ## O meu nome é Daniel Soares e pertenço ao curso de GPSI na
+      OFICINA-Escola profissional do INA.
+
 
       Tenho muito gosto pela área de hardware, principalmente em computadores.
-
     media:
       type: ImageBlock
       url: /images/462549375_844813127841235_7371172891743275372_n.jpg
