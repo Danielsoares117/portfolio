@@ -4,11 +4,11 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/Tech Apprenticeships 101 — MiNiMALMAXX.jfif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 17
 sections:
   - elementId: ''
     colors: colors-f
@@ -20,7 +20,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/462549375_844813127841235_7371172891743275372_n.jpg
       altText: Hero image
     styles:
       self:
@@ -103,52 +103,21 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
         subtitle: 'Experiência:'
-        text: |+
+        text: |
           **2023**
 
           *   Skysigma Lda
 
+          ****
+
+          **Certificados:**
+
+          Certificado Cambridge nível B2 Inglês
         styles:
           self:
             textAlign: left
@@ -160,22 +129,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Formação:'
         text: |+
-          **2022- A decorrer**
+          **2022- Atual**
 
           *   OFICINA-Escola profissional do INA
-
 
           **2017-2022**
 
           *   Escola EB 2/3 Alvarelhos
-
-
-
-
-
-
-
-
 
         styles:
           self:
@@ -211,16 +171,4 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
 ---
