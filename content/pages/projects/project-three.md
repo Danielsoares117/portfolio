@@ -3,7 +3,7 @@ type: ProjectLayout
 title: WORDPRESS - Loja roupa
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: Projeto de uma loja de roupa utilizando wordpress e elementor
 featuredImage:
   type: ImageBlock
