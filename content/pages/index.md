@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Daniel Soares
-    subtitle: s
+    subtitle: ''
     styles:
       self:
         height: auto
