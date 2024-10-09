@@ -113,7 +113,9 @@ sections:
 
           *   Skysigma Lda
 
-          Certificados:
+          ****
+
+          **Certificados:**
 
           Certificado Cambridge nível B2 Inglês
         styles:
