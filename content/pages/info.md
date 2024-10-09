@@ -113,6 +113,12 @@ sections:
 
           *   Skysigma Lda
 
+
+
+
+
+          Certificados:
+
         styles:
           self:
             textAlign: left
