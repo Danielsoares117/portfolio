@@ -20,7 +20,10 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/transferir.jfif
+  url: >-
+    /images/Premium Photo _ Stunning realistic wallpaper of a Black Hole Deep
+    space starry astrophotography universe cosmus space background Generative
+    ai.jfif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
