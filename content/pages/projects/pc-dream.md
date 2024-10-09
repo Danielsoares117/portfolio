@@ -26,6 +26,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-Este projeto de um website de uma loja de computador portátil foi realizada em sala de aula juntamente com um grupo de mais 6 pessoas.\~
+Este projeto de um website de uma loja de computador portátil foi realizada em sala de aula juntamente com um grupo de mais 6 pessoas.
 
 [**Github**](https://github.com/Danielsoares117/pcdream)
