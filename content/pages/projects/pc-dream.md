@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Pc dream
 date: '2023-02-09'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
