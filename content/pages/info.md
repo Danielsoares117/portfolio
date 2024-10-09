@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/Tech Apprenticeships 101 — MiNiMALMAXX.jfif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
