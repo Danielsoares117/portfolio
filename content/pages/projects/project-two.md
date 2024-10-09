@@ -21,7 +21,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 20
 ---
 Neste projeto desenvolvido em sala de aula utilizei o wordpress para desenvolver um website de uma marca chamada DDS\_Line, focada em car detailing.
 
