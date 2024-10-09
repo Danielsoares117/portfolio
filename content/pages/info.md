@@ -108,17 +108,14 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experiência:'
-        text: |+
+        text: |
           **2023**
 
           *   Skysigma Lda
 
-
-
-
-
           Certificados:
 
+          Certificado Cambridge nível B2 Inglês
         styles:
           self:
             textAlign: left
