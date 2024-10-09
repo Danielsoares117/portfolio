@@ -26,3 +26,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+Neste projeto desenvolvido em sala de aula desenvolvi uma base militar sci-fi em 3D no programa 3DS MAX.
+
+Este projeto demorou algumas horas a ser concluído devido a todo o cuidado e atenção aos diversos detalhes.
