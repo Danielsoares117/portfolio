@@ -59,6 +59,7 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
       - content/pages/projects/projeto-3d.md
+      - content/pages/projects/cabos-rj45.md
     styles:
       self:
         height: auto
