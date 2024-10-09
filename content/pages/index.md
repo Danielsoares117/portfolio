@@ -12,9 +12,9 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Daniel Soares
-    subtitle: Sou o Daniel Soares e este é o meu portfolio
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -59,6 +59,8 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
       - content/pages/projects/projeto-3d.md
+      - content/pages/projects/cabos-rj45.md
+      - content/pages/projects/hardware.md
     styles:
       self:
         height: auto
