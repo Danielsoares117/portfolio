@@ -20,10 +20,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    /images/Premium Photo _ Stunning realistic wallpaper of a Black Hole Deep
-    space starry astrophotography universe cosmus space background Generative
-    ai.jfif
+  url: "/images/On the edge of the cosmos ✨\U0001F30D\U0001F4AB.jfif"
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
