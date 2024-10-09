@@ -6,7 +6,7 @@ client: Awesome client
 description: Projeto de uma base militar sci-fi em 3d utilizando 3DS Max
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/imagem_2024-10-09_162728448.png
   altText: '3D sci-fi '
   caption: Projeto de uma base militar sci-fi em 3d utilizando 3DS Max
   elementId: ''
