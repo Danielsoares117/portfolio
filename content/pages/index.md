@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 30
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: inset
     title: Daniel Soares
     subtitle: ''
