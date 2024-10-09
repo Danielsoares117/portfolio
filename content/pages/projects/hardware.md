@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Hardware
 date: '2022-12-02'
-client: Awesome client
+client: ''
 description: Reparação de hardware
 featuredImage:
   type: ImageBlock
