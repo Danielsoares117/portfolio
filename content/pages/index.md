@@ -60,6 +60,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/projeto-3d.md
       - content/pages/projects/cabos-rj45.md
+      - content/pages/projects/hardware.md
     styles:
       self:
         height: auto
