@@ -15,6 +15,13 @@ media:
   type: ImageBlock
   url: /images/imagem_2024-10-06_221444412.png
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Neste projeto desenvolvido em sala de aula utilizei o wordpress para desenvolver um website de uma marca chamada DDS\_Line, focada em car detailing.
 
